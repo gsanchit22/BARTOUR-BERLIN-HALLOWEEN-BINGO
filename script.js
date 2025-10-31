@@ -4,7 +4,7 @@ const LANGUAGES = {
         title_h1: "BARTOUR BERLIN",
         title_h2: "HALLOWEEN BINGO",
         start_heading: "WELCOME, MORTAL! 😈",
-        start_message: "Enter your name to start playing for a **FREE SHOT**!",
+        start_message: "Enter your name to start playing for a **FREE DRINK**!",
         start_placeholder: "Your Spooky Name Here",
         start_button: "SUMMON THE GAME",
         win_message_prefix: "WINS THE PRIZE!",
