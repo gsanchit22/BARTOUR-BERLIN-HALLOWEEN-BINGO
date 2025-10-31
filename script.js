@@ -20,8 +20,8 @@ const LANGUAGES = {
             "Do a quick Halloween pose for 3 seconds 🧛‍♀️🧟",
             "Swap a costume piece with someone 🎭🤝",
             "Show a funny Dance Move 🕺💃",
-            "Use a Halloween-themed pick-up line on someone 😉🕸️",
-            "Finish a drink without using your hands 🥤🚫🖐️"
+            "Compliment or Trash-talk someone 😉🕸️",
+            "Order a mystery shot from the Bartender 🥤🚫🖐️"
         ]
     },
     'de': {
@@ -44,8 +44,8 @@ const LANGUAGES = {
             "Mach eine schnelle Halloween-Pose für 3s 🧛‍♀️🧟",
             "Tausch ein Kostümteil mit jmd. 🎭🤝",
             "Zeig einen lustigen Dance-Move 🕺💃",
-            "Benutze eine Halloween-Anmachspruch 😉🕸️",
-            "Trink ein Getränk ohne Hände 🥤🚫🖐️"
+            "Jemanden loben oder schlechtmachen 😉🕸️",
+            "Bestelle einen geheimnisvollen Shot vom Barkeeper🥤🚫🖐️"
         ]
     },
     'es': {
@@ -68,8 +68,8 @@ const LANGUAGES = {
             "Haz una pose rápida de Halloween por 3s 🧛‍♀️🧟",
             "Intercambia una pieza de disfraz con alguien 🎭🤝",
             "Muestra un paso de baile divertido 🕺💃",
-            "Usa una frase de ligue temática de Halloween 😉🕸️",
-            "Termina una bebida sin usar las manos 🥤🚫🖐️"
+            "Halagar o hablar mal de alguien 😉🕸️",
+            "ide un trago misterioso al barman 🥤🚫🖐️"
         ]
     }
 };
